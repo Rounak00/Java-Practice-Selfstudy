@@ -2,7 +2,7 @@
 //class -> non primitive
 
 //now if we use final key word it makes variable nonchangeable-noninheritable-nonoverridable
-ex-> 
+
 public class Main {
     public static void main(String[] args) {
         final int a=5;

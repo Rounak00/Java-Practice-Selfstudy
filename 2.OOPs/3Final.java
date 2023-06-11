@@ -61,3 +61,11 @@ class Test {
 		System.out.println(sb);
 	}
 }
+
+
+
+/*
+ * Final Variable = Non Mutable
+ * Final Method = Non Overridden
+ * Final Class = Non inheritable
+ */

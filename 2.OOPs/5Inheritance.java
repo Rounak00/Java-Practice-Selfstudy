@@ -139,7 +139,8 @@ public class Test {
 	    }
 	}
 
-//..................................................interface.................................................
+//..........................................interface.................................................
+//* Interface is same like a Abstract class where all methods by defualt abstract
 //t is for multiple inheritance
 //ex3
 // A simple interface

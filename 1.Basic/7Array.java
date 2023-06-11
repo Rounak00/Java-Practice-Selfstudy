@@ -6,6 +6,7 @@ class Main {
         we can also do this
         int []a;
         a=new int[3];
+        int a[]=new int[5];
          */
         System.out.println(a.length);//4
         a[2]=50;

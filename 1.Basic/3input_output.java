@@ -4,7 +4,7 @@
 import java.io.*; //import input output package
 public class Gfg //for string
 { 
-    public static void main(String[] args)  throws IOException
+    public static void main(String[] args)  
     { 
        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
        System.out.println("Enter a String");
@@ -16,7 +16,7 @@ public class Gfg //for string
 
 public class Gfg //for integer
 { 
-    public static void main(String[] args)  throws IOException
+    public static void main(String[] args) 
     { 
        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
        System.out.println("Enter an Integer");
@@ -55,7 +55,7 @@ System.out.format();/ System.out.printf(); //print non primitive data types (its
 
 public class Test
 { 
-    public static void main(String[] args) throws IOException 
+    public static void main(String[] args)  
     { 
        int x = 10, y = 20;      
        char z = 'G';
